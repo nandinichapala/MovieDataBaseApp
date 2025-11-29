@@ -46,7 +46,7 @@ const Header = props => (
               </Link>
             </ul>
             <input
-              type="search"
+              type="text"
               className="search-container"
               placeholder="Movie Name"
               value={searchInput}
